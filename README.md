@@ -231,7 +231,7 @@ Figma
   text-align: left;
   vertical-align: center;
 }
-
+```
 ## OUTPUT:
 ![alt text](image.png)
 
